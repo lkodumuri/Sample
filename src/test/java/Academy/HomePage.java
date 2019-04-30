@@ -23,6 +23,7 @@ public class HomePage extends base{
 	{
 	
 		 driver =initializeDriver();
+		 System.out.println("sowji");
 
 	}
 	@Test(dataProvider="getData")
